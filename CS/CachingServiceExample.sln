@@ -1,5 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CachingService", "CachingService\CachingService.csproj", "{13A90785-B4AB-4404-8371-2BB1744ACFC7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseUpdater", "DatabaseUpdater\DatabaseUpdater.csproj", "{DFC5360D-3FAD-498E-88BC-89BC5EF4AB3E}"
@@ -39,5 +41,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D0235F7-060E-461F-9658-C78149551EFF}
 	EndGlobalSection
 EndGlobal
