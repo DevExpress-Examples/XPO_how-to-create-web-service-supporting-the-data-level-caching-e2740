@@ -7,13 +7,13 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [CachingService.asmx.cs](./CS/CachingService/CachingService.asmx.cs) (VB: [CachingService.asmx.vb](./VB/CachingService/CachingService.asmx.vb))
-* [Global.asax.cs](./CS/CachingService/Global.asax.cs) (VB: [Global.asax.vb](./VB/CachingService/Global.asax.vb))
-* [Web.config](./CS/CachingService/Web.config) (VB: [Web.config](./VB/CachingService/Web.config))
-* [Default.aspx](./CS/Client/Default.aspx) (VB: [Default.aspx](./VB/Client/Default.aspx))
-* [Default.aspx.cs](./CS/Client/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Client/Default.aspx.vb))
-* [XpoHelper.cs](./CS/Client/XpoHelper.cs) (VB: [XpoHelper.vb](./VB/Client/XpoHelper.vb))
-* [CachingServiceDataStore.cs](./CS/ServiceDataStore/CachingServiceDataStore.cs) (VB: [CachingServiceDataStore.vb](./VB/ServiceDataStore/CachingServiceDataStore.vb))
+* [CachingService.asmx.cs](./CS/CachingService/CachingService.asmx.cs) 
+* [Global.asax.cs](./CS/CachingService/Global.asax.cs) 
+* [Web.config](./CS/CachingService/Web.config) 
+* [Default.aspx](./CS/Client/Default.aspx) 
+* [Default.aspx.cs](./CS/Client/Default.aspx.cs) 
+* [XpoHelper.cs](./CS/Client/XpoHelper.cs) 
+* [CachingServiceDataStore.cs](./CS/ServiceDataStore/CachingServiceDataStore.cs) 
 <!-- default file list end -->
 # How to create Web Service supporting the data-level caching?
 
