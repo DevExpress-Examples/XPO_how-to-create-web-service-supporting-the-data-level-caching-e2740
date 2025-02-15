@@ -1,1 +1,1 @@
-﻿<%@ WebService Language="vb" CodeBehind="CachingService.asmx.vb" Class="DXSample.Service.CachingService" %>
+﻿<%@ WebService Language="C#" CodeBehind="CachingService.asmx.cs" Class="DXSample.Service.CachingService" %>

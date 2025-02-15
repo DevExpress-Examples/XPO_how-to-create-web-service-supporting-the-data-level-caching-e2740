@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.vb" Inherits="CachingService.Global" Language="vb" %>
+<%@ Application Codebehind="Global.asax.vb" Inherits="CachingService.Global" Language="VB" %>
